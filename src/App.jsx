@@ -9,6 +9,7 @@ function App() {
     <>
     <p>Hello World!</p>
     <p>Hello World! NEW</p>
+    <p>Hello World! PEOPLE</p>
     </>
   )
 }
